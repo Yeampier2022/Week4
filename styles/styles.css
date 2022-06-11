@@ -1,0 +1,86 @@
+#content {
+    max-width: 1600px;
+    margin: 0 auto;
+ }
+.hero-msg {
+    text-align: center;
+}
+.rivers-card {
+    text-align: center;
+}
+.camping-card {
+    text-align: center;
+}
+.rapids-card  {
+    text-align: center;
+}
+.msg   {
+    text-align: center;
+}
+
+#background {
+    height: 725px;
+}
+body {
+    background-color: #f1faee ; 
+}
+header {
+    background-color:#caf0f8
+}
+nav a:hover {
+    background-color:black;
+}
+.msg {
+    background-color:#caf0f8;
+}
+footer {
+    background-color:#48cae4;
+}
+.book:hover {
+    background-color:#48cae4;
+}
+
+.join:hover {
+    background-color:#48cae4;
+}
+nav a:hover {
+    background-color: black;
+    color: #d9c2a3;
+}    
+
+.icon {
+    width: 120px;
+} 
+#hero-img {
+    width: 1500px;
+}
+nav a {
+    text-align: center;
+    color: #03045e;
+    text-decoration: none;
+}
+h1 {
+    color:#03045e;
+} 
+h2 {
+    color:#03045e;
+}
+h3 { 
+    color:#03045e;
+}
+h4{
+    color:#03045e; 
+}
+h5 {
+    color:#03045e;
+} 
+h6{
+    color:#03045e;
+} 
+footer p {
+    text-size: 1.2em;
+}   
+ 
+footer p a:hover {
+    text-decoration: underline;
+}     
